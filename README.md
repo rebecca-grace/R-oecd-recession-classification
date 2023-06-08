@@ -13,8 +13,9 @@ Repository
 ### 2. Overview
 
 For this project the main questions that will be explored are:
-    1. For deep recessions (<-5% GDP decrease in a quarter) what are the lagging economic indicators with the highest variable importance?
-    2. Can we create an accurate classifier to predict the probability of negative economic growth in a country?
+
+1. For deep recessions (<-5% GDP decrease in a quarter) what are the lagging economic indicators with the highest variable importance?
+2. Can we create an accurate classifier to predict the probability of negative economic growth in a country?
 
 ### 3. Data Source
 
